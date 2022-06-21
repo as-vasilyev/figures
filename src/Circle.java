@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Circle extends Figure{
     int radius;
     public Circle (int radius)
